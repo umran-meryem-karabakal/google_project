@@ -18,7 +18,14 @@
 #buttons{
     position: absolute;
     top: 180%;
-    left: 63%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    width: 500px;
+    width: 300px;
 }
+
+#cubuk{
+    position: relative;
+    left: 32%;
+    width: 300px;
+}
+
